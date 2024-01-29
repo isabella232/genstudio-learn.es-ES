@@ -2,12 +2,12 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 # Artículo de Contribute
 
-Agradecemos las contribuciones de nuestra comunidad y de los empleados de Adobe ajenos a los equipos de documentación.
+Agradecemos las contribuciones de nuestra comunidad, así como de los empleados de Adobe de fuera de los equipos de documentación.
 
 ## Código de conducta de código abierto de Adobe
 
@@ -29,9 +29,9 @@ Si va a contribuir con una actualización menor:
 1. En la sección &quot;¿Fue útil este contenido?&quot; titular que aparece en la parte inferior de la ventana del explorador, haga clic en **Opciones de comentarios detalladas**.
 1. Clic **Sugerir una edición** y enviar una solicitud de extracción (PR) con los cambios en la interfaz de usuario de GitHub.
 
-   Consulte la [guía general de colaborador de Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para más información.
+   Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para obtener más información.
 
-Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código en este repositorio están cubiertas por las condiciones de uso de Adobe.
+Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código de este repositorio están sujetos a las condiciones de uso del Adobe.
 
 ### Cambios importantes o nuevos temas de la comunidad
 
@@ -43,7 +43,7 @@ Si forma parte de la comunidad de Adobe y desea crear un nuevo tema o enviar cam
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para la edición básica o realizar importantes contribuciones.
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para obtener más información.
 
 ## Colaboradores internos
 
@@ -53,12 +53,12 @@ Si es redactor técnico, administrador de programa o desarrollador del equipo de
 
 Todos los artículos de este repositorio utilizan Markdown de GitHub. Si no está familiarizado con Markdown, consulte:
 
-* [Conceptos básicos de marcas](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-* [Hoja de referencia imprimible de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Conceptos básicos de marcas](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Hoja de referencia de marcas imprimible](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Etiquetas
 
-En el repositorio público, se asignan etiquetas automatizadas a las solicitudes de extracción para ayudarnos a gestionar su flujo de trabajo y para ayudarle a saber qué está pasando con su solicitud de extracción:
+En el repositorio público, se asignan etiquetas automatizadas a las solicitudes de extracción para que nos ayuden a administrar el flujo de trabajo de la solicitud de extracción y para que sepan lo que sucede con la solicitud de extracción:
 
-* **Cambio enviado al autor**: el autor está informado de la solicitud de extracción pendiente.
+* **Cambio enviado al autor**: Se ha notificado al autor la solicitud de extracción pendiente.
 * **Listo para combinar**: Listo para que el equipo de revisión evalúe la solicitud.
