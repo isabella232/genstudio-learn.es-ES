@@ -5,12 +5,12 @@ user-guide-description: Ver tutoriales del Experience League sobre el Adobe [!DN
 source-git-commit: f9b6251291b69de899cd691a29e8575621667a05
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 
-# Adobe [!DNL GenStudio] {#tutorials}
+# Adobe[!DNL GenStudio] {#tutorials}
 
 + [[!DNL GenStudio] Tutoriales](overview.md)
 + [Flujo de trabajo y planificación](workflow-and-planning.md)
